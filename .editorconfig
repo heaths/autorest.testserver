@@ -9,4 +9,5 @@ trim_trailing_whitespace = true
 
 # JS/TS files
 [*.{js,jsx,ts,tsx}]
+end_of_line = lf
 indent_size = 2
